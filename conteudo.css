@@ -1,0 +1,55 @@
+html {
+    background-image: url(https://i.pinimg.com/originals/f2/4e/72/f24e72eb9f88da03a91df409671f1e5b.jpg);
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    display: block;
+    font-family: fantasy;
+}
+
+h2{
+    color: white;
+}
+
+#lista-conteudo{
+    color: white;
+    font-size: 20px;
+}
+
+#lspdfr{
+    width: 600px;
+    height: 300px;
+}
+
+#fifa22 {
+    width: 600px;
+    height: 300px;
+}
+
+#F122 {
+    width: 600px;
+    height: 300px;
+}
+
+#ETS2 {
+    width: 560px;
+    height: 315px;
+}
+
+.footer{
+    background-image: url(https://as1.ftcdn.net/v2/jpg/04/40/95/78/1000_F_440957816_P2mvkvjwvta8Fo68BWBvts6OoWxEQtzQ.jpg);
+    height: 5cm;
+    display:flex;
+    color: white;
+}
+
+a[href]{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: fantasy;
+    font-weight: bold;
+}
