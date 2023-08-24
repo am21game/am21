@@ -93,3 +93,9 @@ a[href]{
     font-family: fantasy;
     font-weight: bold;
 }
+
+#IncorporaçãoInsta {
+    max-width: 800px;
+    margin: auto;
+    padding: 40%;
+}
