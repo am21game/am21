@@ -97,13 +97,13 @@ a[href]{
 #IncorporaçãoInsta {
     max-width: 1000px;
     max-height: 1000px;
-
+    align-items: center;
     margin: auto;
     padding: 40%;
 }
 
 #SocialMedia {
-    display:grid;
+    display:flex;
+    justify-content: center;
     
-
 }
