@@ -103,6 +103,7 @@ a[href]{
 }
 
 #SocialMedia {
-    text-align: left;
+    display:grid;
+    
 
 }
