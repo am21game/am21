@@ -106,11 +106,12 @@ a[href]{
     align-items: center;
     
 }
-
 a[href] {
     text-decoration: none;
-    color: white;
-    font-size: 20px;
-    font-family: fantasy;
-    font-weight: bold;
+}
+
+
+a#incio {
+    margin-left: 10px;
+    margin-top: 20px;
 }
