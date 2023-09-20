@@ -100,7 +100,7 @@ a[href] {
     color: white;
 }
 
-:hover {
+a :hover {
     color: rgb(84, 127, 192);
 }
 
